@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<view template="deployment-app-editor:/templates/editor.html" type="html">
+	<label>App Editor</label>
+</view>

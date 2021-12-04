@@ -1,0 +1,2 @@
+This app is only for deployment-server which runs on linux. 
+It uses SPLUNK_HOME environment variable as its root. If deployment-apps directory is in "/opt/splunk/etc" it can still run.

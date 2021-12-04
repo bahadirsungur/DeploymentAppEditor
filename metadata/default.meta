@@ -1,0 +1,7 @@
+[]
+access = read : [ admin ], write : [ admin ]
+export = system
+version = 8.2.3
+
+[views/deployment-app-editor]
+version = 8.2.3
